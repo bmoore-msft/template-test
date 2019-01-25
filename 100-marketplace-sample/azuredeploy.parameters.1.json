@@ -1,0 +1,15 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": "bmoore"
+        },
+        "adminPasswordOrKey": {
+            "value": "Pa$$w0rd!!!!"
+        },
+        "_artifactsLocationSasToken": {
+            "value": "?st=2018-11-19T16%3A40%3A16Z&se=2018-11-20T16%3A40%3A16Z&sp=rl&sv=2018-03-28&sr=c&sig=t2YKrDfwYJbWlTjW3mtHFqeDbWbMiYgY0iyBZ0hx4tI%3D"
+        }
+    }
+}
